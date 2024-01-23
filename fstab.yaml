@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: https://dita-franklin-worker.adobeaem.workers.dev/sudhanshumonga/aem-guides-boilerplate/main/docs
+    type: markup
+
