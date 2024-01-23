@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://dita-franklin-worker.adobeaem.workers.dev/sudhanshumonga/aem-guides-boilerplate/main/docs
+    url: https://dita-franklin-worker.adobeaem.workers.dev/Varsneya/franklin-template/main/docs
     type: markup
 
